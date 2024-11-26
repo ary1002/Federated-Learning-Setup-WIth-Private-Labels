@@ -40,7 +40,7 @@ All files load their respective datasets automatically for seamless experimentat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/ary1002/Federated-Learning-Setup-WIth-Private-Labels.git
    cd your-repo-name
    ```
 2. Install the required libraries:
